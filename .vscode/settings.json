@@ -1,8 +1,11 @@
 {
 	"editor.insertSpaces": false,
-	"editor.quickSuggestions": true,
+	"editor.quickSuggestions": {
+		"comments": "on",
+		"strings": "on",
+		"other": "on"
+	},
 	"editor.formatOnSave": false,
-	"pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css"
-	"markdown-pdf.styles":["./css/style.css"],
-	"markdown-pdf.convertOnSave": false
+	"pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css",
+	"markdown-pdf.styles": [".//css//style.css"]
 }
