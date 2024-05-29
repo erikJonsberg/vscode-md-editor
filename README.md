@@ -58,6 +58,7 @@ Define `Workspace` settings in the `.vscode` directory.
 ## Features
   
 Import images
+
 ![markdown logo on blue background](assets/markdown-logo-on-a-blue-background.png )
   
 Make Tables
@@ -66,7 +67,7 @@ Make Tables
 |  1 | 2  |3 |
   
 Add emojis
-:fairy_woman:	:mermaid:	:lotus_position: 	:hippopotamus: :poop: :clown_face:
+::fairy_woman::	::mermaid::	::lotus_position:: 	::hippopotamus:: ::poop:: ::clown_face::
   
 ...and so much more
   
