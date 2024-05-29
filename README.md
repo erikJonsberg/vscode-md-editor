@@ -57,18 +57,40 @@ Define `Workspace` settings in the `.vscode` directory.
   
 ## Features
   
-Import images
+### Import images
 
-![markdown logo on blue background](assets/markdown-logo-on-a-blue-background.png )
+![markdown logo on a blue background](assets/markdown-logo-on-a-blue-background.png )
   
-Make Tables
+### Make Tables
+
 | Red  |Blue   | Green|
 |---:|---:|---:|
 |  1 | 2  |3 |
   
-Add emojis
-::fairy_woman::	::mermaid::	::lotus_position:: 	::hippopotamus:: ::poop:: ::clown_face::
-  
+### Add emojis
+
+🧚‍♀️ 🧜‍♀️	🧘‍♀️ 🦛 💩 🤡
+
+### Make a todo list
+
+- [ ] Milk
+- [x] Eggs
+- [ ] Butter
+- [ ] Soap
+
+### Do some math
+
+$E = mc^2$
+
+### Make a diagram
+
+```mermaid
+graph TD;
+    Apple-->Baseball;
+    Apple-->Cat;
+```
+
+
 ...and so much more
   
 Have fun and happy marking down! 	:alien:
