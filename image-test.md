@@ -4,7 +4,7 @@
 
 Check out my drag and drop image:
 
-![Image test image](asia-culturecenter-57oPg_ksI4k-unsplash.jpg)
+![Image test image](./assets/asia-culturecenter-57oPg_ksI4k-unsplash.jpg)
 
 And here's a youtube video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XkOXNlHJP6M
