@@ -19,12 +19,12 @@ It's configured specifically for working with Github Flavored Markdown (GFM), bu
    - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced ) \- adds a preview pane with a bunch of options on right-click
    - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid ) \- adds support for mermaid diagrams
    - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint ) \- a very handy markdown linter
-   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker ) \- a spell checker for VSCode. It also checks the spelling of a variety programming languages, but it mostly just clutters up your code with a bunch of squiggly lines.
+   - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker ) \- a spell checker for VSCode. It also checks the spelling of a variety of programming languages, but it mostly just clutters up your code with a bunch of squiggly lines.
 4. Restart VSCode
   
 ## How to use
   
-Click `⌘` + `k` then `v` on a Mac, or `ctrl` + `k` then `v` in Windows to open the enhanced preview pane. `Right click` to bring up the menu. Choose `export -> Save as Markdown` to save as GFM.
+Click `⌘` + `k` then `v` on a Mac, or `ctrl` + `k` then `v` in Windows to open the enhanced preview pane. `Right-click` to bring up the menu. Choose `export -> Save as Markdown` to save as GFM.
   
 Define `Workspace` settings in the `.vscode` directory.
   
@@ -63,10 +63,12 @@ Define `Workspace` settings in the `.vscode` directory.
   
 ### Make Tables
 
-| Red  |Blue   | Green|
-|---:|---:|---:|
-|  1 | 2  |3 |
-  
+| Markdown  |Tables  | Are Cool|
+|--|--|--:|
+|The|Second|Column|
+|Is|Center|Aligned|
+|The|Third is|Right|
+
 ### Add emojis
 
 🧚‍♀️ 🧜‍♀️	🧘‍♀️ 🦛 💩 🤡
@@ -90,8 +92,7 @@ graph TD;
     Apple-->Cat;
 ```
 
-
 ...and so much more
   
-Have fun and happy marking down! 	:alien:
+Have fun and happy marking down! 🙀
   
